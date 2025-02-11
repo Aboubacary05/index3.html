@@ -1,0 +1,14 @@
+nav,ul,li{
+    list-style:none;
+    display: inline;
+    margin: 5px;
+}
+
+h1 > li a:hover{
+   color: aqua;
+}
+
+
+ul,li,strong,p{
+   font: bold;
+}
